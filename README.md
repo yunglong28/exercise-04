@@ -41,6 +41,8 @@ There are various paths you can pursue:
 - Manipulate the column on the command line, with the toolkit `csvkit`. 
 - If you're familiar with regular expressions, a tool like `sed` on the Unix command line could also be used. Alternatively, some text editors make this fairly easy (e.g., [Notepad++ on Windows](https://notepad-plus-plus.org), [TextMate on Mac](https://macromates.com)). 
 
+You should **not fix this issue manually**. In reality, these files are very large and contain many entries, so that a manual fix is not feasible. 
+
 
 ## Step 3
 
