@@ -1,2 +1,15 @@
-Name,Type
+Name, Type
 PassengerId,Numeric
+Survived, Numeric
+Pclass, Numeric
+Name,String
+Sex, String
+Age, Numeric
+SibSp, Numeric
+Parch, Numeric
+Ticket, Numeric
+Fare, NUmeric
+Cabin, Numeric
+Embarked, String
+
+
